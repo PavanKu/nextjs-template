@@ -1,9 +1,9 @@
 ## Tools and Configurations included
 - ~~NextJS app created using `create-next-app@latest`~~ - DONE
-- TypeScript
-- ESLint
-- Tailwind CSS
-- Prettier
+- ~~TypeScript~~ - DONE
+- ~~ESLint~~ - DONE
+- ~~Tailwind CSS~~ - DONE
+- ~~Prettier~~ - DONE
 - Unit Testing
     * Jest
     * React Testing Library
