@@ -4,9 +4,10 @@
 - ~~ESLint~~ - DONE
 - ~~Tailwind CSS~~ - DONE
 - ~~Prettier~~ - DONE
-- Unit Testing
-    * Jest
-    * React Testing Library
+- ~~Unit Testing~~ - DONE
+    * ~~Jest~~ - DONE
+    * ~~React Testing Library~~ - DONE
+- code coverage 
 - E2E Testing
     * Cypress
 - Pre Commit Hook
